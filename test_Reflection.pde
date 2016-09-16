@@ -9,7 +9,7 @@
 void setup() {
   size(640, 360, P3D);
   noStroke();
-  colorMode(RGB, 1);
+  colorMode(RGB, 2);
   fill(0.4);
 }
 
@@ -21,5 +21,5 @@ void draw() {
   directionalLight(0.8, 0.8, 0.8, 0, 0, -1);
   float s = mouseX / float(width);
   specular(s, s, s);
-  sphere(120);
+  sphere(150);
 }
