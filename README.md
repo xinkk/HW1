@@ -1,6 +1,6 @@
 # HW1
 this is homework 1 for EC601A2
-there are two ways to run this code
+there are two ways to run the reflection code
 1: download and install Processing from processing.org
    open the .pde file with Processing
    run the .pde file as sketches
@@ -11,4 +11,6 @@ there are two ways to run this code
    
 2: download the .java file and run with any java IDE
 
+1st step is followed for Transparency.pde
+Image source is moonwalk.jpg which can be changed to any other image of the same format
    
